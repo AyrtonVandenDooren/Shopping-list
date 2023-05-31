@@ -1,0 +1,164 @@
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\web.config
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsetting.Docker.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsettings.Development.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsettings.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsetting.Docker.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsettings.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\Shopping.deps.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\Shopping.runtimeconfig.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.exe
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.deps.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.runtimeconfig.json
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.pdb
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\DnsClient.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\GreenDonut.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\SharpCompress.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\backend\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\staticwebassets.build.json
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\staticwebassets.development.json
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.dll
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\refint\Shopping.dll
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.pdb
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+C:\backend\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\ref\Shopping.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\web.config
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsetting.Docker.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\appsettings.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsetting.Docker.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\Shopping.deps.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\publish\Shopping.runtimeconfig.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.exe
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.deps.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.runtimeconfig.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Shopping.pdb
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\GreenDonut.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\refint\Shopping.dll
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.pdb
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+C:\Users\Ayrto\OneDrive\Bureaublad\school\MCT\1ste jaar 2de semester\backend\Project-shoppinglist\Project-shoppinglist\Shopping-list\obj\Debug\net6.0\ref\Shopping.dll

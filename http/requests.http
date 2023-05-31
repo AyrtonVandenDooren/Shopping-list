@@ -1,0 +1,89 @@
+GET http://localhost:3000/setup HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+
+
+###
+GET http://localhost:3000/shops HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+###
+GET http://localhost:3000/product/62694046f71c783f81ed4150 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+###
+DELETE http://localhost:3000/shop/62694046f71c783f81ed4150 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+
+###
+GET http://localhost:3000/categorys HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+###
+GET http://localhost:3000/products HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTE1MjcwNCwiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.CMqf4qWh2tQETuMt4F9TpjeS6zb29hp6tJAR6729nNg
+Content-Type: application/json
+
+###
+POST http://localhost:3000/products HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTE1MjcwNCwiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.CMqf4qWh2tQETuMt4F9TpjeS6zb29hp6tJAR6729nNg
+Content-Type: application/json
+
+{
+  "Name": "testje",
+  "category": 
+  {
+    "Name": "test",
+    "shop": {
+      "Name": "test"
+    }
+  }
+}
+
+###
+POST http://localhost:3000/categorys HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+{
+  "Name": "testje",
+  "shop": 
+  {
+    "Name": "test"
+  }
+}
+
+###
+POST http://localhost:3000/shops HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+{
+  "Name": "tests"
+}
+
+###
+GET http://localhost:3000/shops HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+
+###
+PUT http://localhost:3000/product/62694046f71c783f81ed4150 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF5cnRvbnZtIiwibmFtZSI6IkF5cnRvbiBWYW4gZGVuIERvb3JlbiIsImNpdHkiOiJEZW5kZXJsZWV1dyIsImV4cCI6MTY1MTA2OTc2NywiaXNzIjoiaHRwcHM6L2xvY2FsaG9zdDozMDAwIiwiYXVkIjoic25lYWtlcl9hcGlfdXNlcnMifQ.9kPLpwYYmXe9C5Oz5jZrKIRanNrzRZ7t4zvD77ehGZ0
+Content-Type: application/json
+
+{
+  "name": "kaas111",
+  "stock": 0
+}
+###
+POST http://localhost:3000/authenticate HTTP/1.1
+Content-Type: application/json
+
+{
+  "Username": "test",
+  "Password": "test"
+}

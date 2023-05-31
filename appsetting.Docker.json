@@ -1,0 +1,21 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "MongoConnection": {
+    "ConnectionString": "mongodb://root:example@mongo:27017",
+    "DatabaseName": "ShoppingListDB",
+    "ShopsCollection": "shops",
+    "CategorysCollection": "categorys",
+    "ProductsCollection": "products"
+  },
+  "AuthenticationSettings": {
+    "SecretForKey": "A?D(G+KaPdSgVkYp",
+    "Issuer": "htpps:/localhost:3000",
+    "Audience": "sneaker_api_users"
+  }
+}
